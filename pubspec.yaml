@@ -78,13 +78,13 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  fonts:
-     - family: Iconly---Bold
-       fonts:
-         - asset: assets/fonts/Iconly---Bold.ttf
-     - family: IconBroken
-       fonts:
-         - asset: assets/fonts/icons_broken.ttf
+#   fonts:
+#      - family: Iconly---Bold
+#        fonts:
+#          - asset: assets/fonts/Iconly---Bold.ttf
+#      - family: IconBroken
+#        fonts:
+#          - asset: assets/fonts/icons_broken.ttf
 
   #   - family: Trajan Pro
   #     fonts:
